@@ -23,3 +23,4 @@ sudo make -j$(nproc) && sudo make modules_install -j$(nproc) && sudo make instal
 
 ### My Blog
 https://touch-sp.hatenablog.com/entry/2022/01/30/001058
+https://touch-sp.hatenablog.com/entry/2022/04/25/182500
