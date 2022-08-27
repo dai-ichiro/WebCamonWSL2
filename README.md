@@ -1,6 +1,7 @@
 # WebCamonWSL2
 
 WSL2でカメラを使うためにKernelをBuildする時に使用するconfigファイル(For Ubuntu 20.04)です。
+以下を実行するだけで「vmlinux」が作成されます。
 
 ### Ubuntu 20.04
 ~~~
